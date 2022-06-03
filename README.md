@@ -1,4 +1,4 @@
-# Givebutter Frontend Take-home
+# Givebutter Frontend Take-home test
 
 ## Overview
 
