@@ -14,7 +14,7 @@ Your time is valuable, and we are extremely appreciative of you participating in
 
 Please update and add code in `App.js` and `index.css` based on the requirements found below. Additionally, we ask you to edit the `readme.md` with answers to a few questions found in the `Follow-up Questions` section also found below.
 
-When you are finished, please upload your completed work to your Github and invite `@gperl27` to view it.
+When you are finished, please upload your completed work to your Github and invite `@gperl27` to view it. **Do not open a PR please.**
 
 ## Setup
 
